@@ -1,5 +1,5 @@
 from tkinter import *
-#Creating a window
+# Creating a window
 windows = Tk()
 windows.title("Resistance Finder")
 windows.geometry("600x450")
