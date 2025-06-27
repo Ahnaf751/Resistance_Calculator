@@ -2,7 +2,7 @@
 
 This is a simple Python project that calculates the resistance of a circuit using user input for voltage and current. It uses a graphical user interface (GUI) built with `tkinter`.
 
-## 📌 Features
+## ✨️ Features
 - User-friendly interface
 - Calculates resistance using Ohm's Law (V/I)
 - Handles errors like zero current and non-numeric input
@@ -21,5 +21,5 @@ This is a simple Python project that calculates the resistance of a circuit usin
 3. Clone the repo or download the ZIP.
 4. Run the file.
    
-## 🎯 Purpose
+## ⚙️ Purpose
 This Resistance Calculator project reflects my passion for electronics and coding. It enabled me to apply Python programming to solve real-world circuit problems through a user-friendly GUI, effectively combining my programming skills with my interest in electrical circuits.
