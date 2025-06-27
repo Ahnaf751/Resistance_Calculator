@@ -1,7 +1,7 @@
 from tkinter import *
 # Creating a window
 windows = Tk()
-windows.title("Resistance Finder")
+windows.title("Resistance Calculator")
 windows.geometry("600x450")
 # Function to output Resistance
 def display():
