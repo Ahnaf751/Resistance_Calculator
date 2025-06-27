@@ -13,7 +13,7 @@ This is a simple Python project that calculates the resistance of a circuit usin
 - tkinter
 
 ## 📷 Screenshot
-![Screenshot](screenshot_of_project.png)
+![Screenshot]()
 
 ## ▶️ How to Run the Project
 1. Make sure Python 3.x is installed on your computer.
