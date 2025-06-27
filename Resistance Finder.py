@@ -10,7 +10,7 @@ def display():
         Current = float(entry2.get())
         # Check to see if division by zero occurs
         if Current != 0 :
-            output_label.config(text=Voltage/Current)
+            output_label.config(text=f"{Voltage/Current} Ω")
         else :
             output_label.config(text="Current cannot be zero.Try again.")      
     except :
