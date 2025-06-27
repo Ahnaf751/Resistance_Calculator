@@ -2,11 +2,11 @@
 
 This is a simple Python project that calculates the resistance of a circuit using user input for voltage and current. It uses a graphical user interface (GUI) built with `tkinter`.
 
-##  Features
- - User-friendly interface
- - Calculates resistance using Ohm's Law (V/I)
- - Handles errors like zero current and non-numeric input
- - Has a Clear All button to reset inputs
+##Features
+- User-friendly interface
+- Calculates resistance using Ohm's Law (V/I)
+- Handles errors like zero current and non-numeric input
+- Has a Clear All button to reset inputs
 
 ##  Technologies Used
  - Python 3.x
