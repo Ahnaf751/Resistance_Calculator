@@ -1,6 +1,8 @@
 # Resistance Calculator GUI
 
-This is a simple Python project that calculates the resistance of a circuit using user input for voltage and current. It uses a graphical user interface (GUI) built with `tkinter`.
+My first ever Python project!
+
+This is a simple app that calculates the resistance of a circuit using user input for voltage and current. It uses a graphical user interface (GUI) built with `tkinter`.
 
 ## - Features -
 - Super simple interface
