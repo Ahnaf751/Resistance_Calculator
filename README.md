@@ -8,14 +8,15 @@ This is a simple app that calculates the resistance of a circuit using user inpu
 - Super simple interface
 - Calculates resistance using Ohm's Law (V/I)
 - Handles errors like zero current and non-numeric input
-- Has a Clear All button to reset inputs
+- Includes a Clear All button to reset inputs quickly
+- Provides an Exit button to close the application
 
 ## - Technologies Used -
 - Python 3
 - tkinter
 
 ## - Screenshot -
-![Screenshot](
+![Screenshot](project_screenshot)
 
 ## - How to Run the Project -
 1. Make sure Python 3 is installed on your computer.
