@@ -17,7 +17,7 @@ def display():
     except :
         output_label.config(text="Please input numeric values.")
         
-# Function to clear all the text
+# Function to delete all the text
 def delete():
     entry1.delete(0,END)
     entry2.delete(0,END)
