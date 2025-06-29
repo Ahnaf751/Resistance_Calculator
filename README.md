@@ -16,7 +16,7 @@ This is a simple app that calculates the resistance of a circuit using user inpu
 - tkinter
 
 ## - Screenshot -
-![Screenshot](project_screenshot)
+![Screenshot](project_screenshot.png)
 
 ## - How to Run the Project -
 1. Make sure Python 3 is installed on your computer.
