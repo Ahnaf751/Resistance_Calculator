@@ -29,8 +29,8 @@ entry1 = Entry(width=30,relief="raised",bd=5)
 entry1.pack(pady=(0,25))
 
 # Label and Entry for Current
-Current_label = Label(windows,text="Enter  Current",fg="green",font=('Georgia'))
-Current_label.pack(padx=(0,60))
+current_label = Label(windows,text="Enter  Current",fg="green",font=('Georgia'))
+current_label.pack(padx=(0,60))
 entry2 = Entry(width=30,relief="raised",bd=5)
 entry2.pack(pady=(0,25))
 
@@ -39,8 +39,8 @@ delete_button = Button(windows,text ="Clear All",command=delete,padx=20,font=('G
 delete_button.pack(pady=(0,25))
 
 # Button for Resistance Calculation
-Res_button = Button(windows,text="Calculate",command=display,padx=20,font=('Georgia'))
-Res_button.pack(pady=(0,25))
+res_button = Button(windows,text="Calculate",command=display,padx=20,font=('Georgia'))
+res_button.pack(pady=(0,25))
 
 # Label for Resistance
 output = Label(windows,text="Resistance:",width=15,relief="sunken",fg="green",bd=5,bg="whitesmoke",font=('Georgia'))
