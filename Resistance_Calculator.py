@@ -47,7 +47,7 @@ output = Label(windows,text="Resistance:",width=15,relief="sunken",fg="green",bd
 output.pack(pady=(10,10))
 
 # Label for Output
-output_label = Label(windows,text="",font='Arail',fg="green")
+output_label = Label(windows,text="",font='Arial',fg="green")
 output_label.pack()
 
 # Exit Button
